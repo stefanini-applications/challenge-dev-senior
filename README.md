@@ -29,5 +29,6 @@ Pedro tentou logar no sistema Sian até expirar suas tres tentativas, e percebeu
 
 ## Entrega
 * O tempo total para entrega desse desafio é de 5 dias. 
-* O prazo se inicia um dia após o recebimento do e-mail contendo o desafio.
+* O prazo se inicia _um dia após o recebimento_ do e-mail contendo o desafio.
+* Para sinalizar a entrega do desafio, basta responder o e-mail que foi enviado com desafio, OU, enviar para o e-mail gabriel.ferri@stefanini.com.
 * Se precisar de mais tempo não exite em perguntar por uma nova data.
